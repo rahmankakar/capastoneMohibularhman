@@ -24,5 +24,23 @@ public class RetailOrderPage extends BaseSetup {
 	@FindBy(id="orderSubmitBtn")
 	public WebElement orderCancelBtn;
 	
+	@FindBy(id="orderLink")
+    public WebElement orderbtn;
+
+    @FindBy(xpath="/html/body/div/div[1]/div[1]/div[3]/div/div/div/div[2]/div[1]/div[2]/div[1]/p[1]")
+    public WebElement firstOrder;
+
+    @FindBy(id="returnBtn")
+    public WebElement returnBtn;
+
+    @FindBy(id="reasonInput")
+    public WebElement returnRes;
+
+    @FindBy(id="dropOffInput")
+    public WebElement dropSer;
+
+    @FindBy(id="orderSubmitBtn")
+    public WebElement returnOrderBtn;
+	
 	
 }

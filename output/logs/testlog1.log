@@ -1882,3 +1882,225 @@
 2022-11-27 08:37:27,287 [main] INFO logger_File - User should be logged in into Account
 2022-11-27 08:37:27,732 [main] INFO logger_File - User click on Orders section
 2022-11-27 08:37:28,107 [main] INFO logger_File - User click on Cancel The Order button
+2022-11-29 09:47:07,936 [main] INFO logger_File - User is on retail website
+2022-11-29 09:47:08,074 [main] INFO logger_File - User click on Sign in option
+2022-11-29 09:47:08,362 [main] INFO logger_File - user enterd email and password
+2022-11-29 09:47:08,447 [main] INFO logger_File - User clicked on login button
+2022-11-29 09:47:08,448 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 09:47:08,920 [main] INFO logger_File - User click on Orders section
+2022-11-29 09:47:09,513 [main] INFO logger_File - User click on Cancel The Order button
+2022-11-29 09:51:00,773 [main] INFO logger_File - User is on retail website
+2022-11-29 09:51:00,889 [main] INFO logger_File - User clicked on sign in option
+2022-11-29 09:51:01,105 [main] INFO logger_File - User entered emailAbo.bakar@gmail.comand passwordKak@4321
+2022-11-29 09:51:01,184 [main] INFO logger_File - User clicked on login button
+2022-11-29 09:51:01,185 [main] INFO logger_File - User should be logged in into account
+2022-11-29 09:51:36,768 [main] INFO logger_File - User is on retail website
+2022-11-29 09:51:36,890 [main] INFO logger_File - User clicked on sign in option
+2022-11-29 09:51:36,979 [main] INFO logger_File - User clicked on create new account button
+2022-11-29 09:51:37,400 [main] INFO logger_File - User entered required data into signup form
+2022-11-29 09:51:37,486 [main] INFO logger_File - user clicked on sign up button
+2022-11-29 09:51:37,487 [main] INFO logger_File - User is signed in into accuntpage
+2022-11-29 09:52:51,733 [main] INFO logger_File - User is on retail website
+2022-11-29 09:52:51,850 [main] INFO logger_File - User clicked on sign in option
+2022-11-29 09:52:51,936 [main] INFO logger_File - User clicked on create new account button
+2022-11-29 09:52:52,337 [main] INFO logger_File - User entered required data into signup form
+2022-11-29 09:52:52,415 [main] INFO logger_File - user clicked on sign up button
+2022-11-29 09:52:52,415 [main] INFO logger_File - User is signed in into accuntpage
+2022-11-29 09:53:50,105 [main] INFO logger_File - User is on retail website
+2022-11-29 09:53:50,223 [main] INFO logger_File - User clicked on sign in option
+2022-11-29 09:53:50,308 [main] INFO logger_File - User clicked on create new account button
+2022-11-29 09:53:50,711 [main] INFO logger_File - User entered required data into signup form
+2022-11-29 09:53:50,792 [main] INFO logger_File - user clicked on sign up button
+2022-11-29 09:53:50,793 [main] INFO logger_File - User is signed in into accuntpage
+2022-11-29 09:57:52,389 [main] INFO logger_File - User is on retail website
+2022-11-29 09:57:52,502 [main] INFO logger_File - User clicked on sign in option
+2022-11-29 09:57:52,714 [main] INFO logger_File - User entered emailAbo.bakar@gmail.comand passwordKak@4321
+2022-11-29 09:57:52,785 [main] INFO logger_File - User clicked on login button
+2022-11-29 09:57:52,802 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 09:57:53,252 [main] INFO logger_File - User clicked on Account option
+2022-11-29 09:57:53,530 [main] INFO logger_File - user updated the Name and Phone
+2022-11-29 09:57:53,611 [main] INFO logger_File - user clicked on update button
+2022-11-29 09:59:50,024 [main] INFO logger_File - User is on retail website
+2022-11-29 09:59:50,136 [main] INFO logger_File - User clicked on sign in option
+2022-11-29 09:59:50,365 [main] INFO logger_File - User entered emailAbo.bakar@gmail.comand passwordKak@4321
+2022-11-29 09:59:50,443 [main] INFO logger_File - User clicked on login button
+2022-11-29 09:59:50,462 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 09:59:50,923 [main] INFO logger_File - User clicked on Account option
+2022-11-29 09:59:51,227 [main] INFO logger_File - user entered the information
+2022-11-29 09:59:51,304 [main] INFO logger_File - User clicked on change password button
+2022-11-29 09:59:51,305 [main] INFO logger_File - user profile information has updated
+2022-11-29 10:00:47,499 [main] INFO logger_File - User is on retail website
+2022-11-29 10:00:47,615 [main] INFO logger_File - User clicked on sign in option
+2022-11-29 10:00:47,840 [main] INFO logger_File - User entered emailAbo.bakar@gmail.comand passwordKak@4321
+2022-11-29 10:00:47,917 [main] INFO logger_File - User clicked on login button
+2022-11-29 10:00:47,937 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 10:00:48,369 [main] INFO logger_File - User clicked on Account option
+2022-11-29 10:00:48,458 [main] INFO logger_File - user clicked in payment method link
+2022-11-29 10:00:48,886 [main] INFO logger_File - user filled Debit or credit card information
+2022-11-29 10:00:48,966 [main] INFO logger_File - User click on Add your card button
+2022-11-29 10:00:48,967 [main] INFO logger_File - payment method has sucessfully updated
+2022-11-29 10:02:42,059 [main] INFO logger_File - User is on retail website
+2022-11-29 10:02:42,177 [main] INFO logger_File - User clicked on sign in option
+2022-11-29 10:02:42,396 [main] INFO logger_File - User entered emailAbo.bakar@gmail.comand passwordKak@4321
+2022-11-29 10:02:42,473 [main] INFO logger_File - User clicked on login button
+2022-11-29 10:02:42,490 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 10:02:42,953 [main] INFO logger_File - User clicked on Account option
+2022-11-29 10:02:43,043 [main] INFO logger_File - user clicked in payment method link
+2022-11-29 10:02:43,515 [main] INFO logger_File - user filled Debit or credit card information
+2022-11-29 10:02:43,591 [main] INFO logger_File - User click on Add your card button
+2022-11-29 10:02:43,592 [main] INFO logger_File - payment method has sucessfully updated
+2022-11-29 10:03:55,851 [main] INFO logger_File - User is on retail website
+2022-11-29 10:03:55,973 [main] INFO logger_File - User clicked on sign in option
+2022-11-29 10:03:56,188 [main] INFO logger_File - User entered emailAbo.bakar@gmail.comand passwordKak@4321
+2022-11-29 10:03:56,262 [main] INFO logger_File - User clicked on login button
+2022-11-29 10:03:56,282 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 10:03:56,736 [main] INFO logger_File - User clicked on Account option
+2022-11-29 10:03:57,997 [main] INFO logger_File - user clicked on edit option of card section
+2022-11-29 10:03:58,502 [main] INFO logger_File - user edited Debit or credit card information
+2022-11-29 10:03:58,575 [main] INFO logger_File - user clicked on update your card button
+2022-11-29 10:03:58,576 [main] INFO logger_File - pyament method successflly edited
+2022-11-29 10:05:09,849 [main] INFO logger_File - User is on retail website
+2022-11-29 10:05:09,964 [main] INFO logger_File - User clicked on sign in option
+2022-11-29 10:05:10,171 [main] INFO logger_File - User entered emailAbo.bakar@gmail.comand passwordKak@4321
+2022-11-29 10:05:10,244 [main] INFO logger_File - User clicked on login button
+2022-11-29 10:05:10,264 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 10:05:10,956 [main] INFO logger_File - User clicked on Account option
+2022-11-29 10:05:11,668 [main] INFO logger_File - user clicked on remove option
+2022-11-29 10:05:11,669 [main] INFO logger_File - payment details removed
+2022-11-29 10:10:00,674 [main] INFO logger_File - User is on retail website
+2022-11-29 10:10:00,789 [main] INFO logger_File - User clicked on sign in option
+2022-11-29 10:10:01,009 [main] INFO logger_File - User entered emailAbo.bakar@gmail.comand passwordKak@4321
+2022-11-29 10:10:01,087 [main] INFO logger_File - User clicked on login button
+2022-11-29 10:10:01,106 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 10:10:01,556 [main] INFO logger_File - User clicked on Account option
+2022-11-29 10:10:01,661 [main] INFO logger_File - user clicked on add address button
+2022-11-29 10:10:02,445 [main] INFO logger_File - user filled new address form
+2022-11-29 10:10:02,546 [main] INFO logger_File - user clicked on add your address button
+2022-11-29 10:10:02,546 [main] INFO logger_File - Adress added successfully
+2022-11-29 10:12:12,548 [main] INFO logger_File - User is on retail website
+2022-11-29 10:12:12,669 [main] INFO logger_File - User clicked on sign in option
+2022-11-29 10:12:12,887 [main] INFO logger_File - User entered emailAbo.bakar@gmail.comand passwordKak@4321
+2022-11-29 10:12:12,965 [main] INFO logger_File - User clicked on login button
+2022-11-29 10:12:12,984 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 10:12:13,450 [main] INFO logger_File - User clicked on Account option
+2022-11-29 10:12:13,805 [main] INFO logger_File - user click on edit address option
+2022-11-29 10:12:14,855 [main] INFO logger_File - user filled the address form with the information
+2022-11-29 10:12:14,956 [main] INFO logger_File - user clicked on update your address button
+2022-11-29 10:12:14,957 [main] INFO logger_File - a massege printed successfully
+2022-11-29 10:13:29,499 [main] INFO logger_File - User is on retail website
+2022-11-29 10:13:29,626 [main] INFO logger_File - User click on All section
+2022-11-29 10:13:30,030 [main] INFO logger_File - above options are present in shop departement sidebar
+2022-11-29 10:14:15,018 [main] INFO logger_File - User is on retail website
+2022-11-29 10:14:15,142 [main] INFO logger_File - User click on All section
+2022-11-29 10:14:16,334 [main] INFO logger_File - userOnDepartement
+2022-11-29 10:14:16,337 [main] INFO logger_File - belowOptionsArePresentInDepartement
+2022-11-29 10:14:19,283 [main] INFO logger_File - User is on retail website
+2022-11-29 10:14:19,387 [main] INFO logger_File - User click on All section
+2022-11-29 10:14:20,539 [main] INFO logger_File - userOnDepartement
+2022-11-29 10:14:20,540 [main] INFO logger_File - belowOptionsArePresentInDepartement
+2022-11-29 10:14:24,910 [main] INFO logger_File - User is on retail website
+2022-11-29 10:14:25,028 [main] INFO logger_File - User click on All section
+2022-11-29 10:14:26,106 [main] INFO logger_File - userOnDepartement
+2022-11-29 10:14:26,108 [main] INFO logger_File - belowOptionsArePresentInDepartement
+2022-11-29 10:14:29,292 [main] INFO logger_File - User is on retail website
+2022-11-29 10:14:29,400 [main] INFO logger_File - User click on All section
+2022-11-29 10:14:30,635 [main] INFO logger_File - userOnDepartement
+2022-11-29 10:14:30,636 [main] INFO logger_File - belowOptionsArePresentInDepartement
+2022-11-29 10:14:35,992 [main] INFO logger_File - User is on retail website
+2022-11-29 10:14:36,099 [main] INFO logger_File - User click on All section
+2022-11-29 10:14:37,380 [main] INFO logger_File - userOnDepartement
+2022-11-29 10:14:37,381 [main] INFO logger_File - belowOptionsArePresentInDepartement
+2022-11-29 10:16:03,591 [main] INFO logger_File - User is on retail website
+2022-11-29 10:16:03,718 [main] INFO logger_File - User click on Sign in option
+2022-11-29 10:16:03,928 [main] INFO logger_File - user enterd email and password
+2022-11-29 10:16:04,002 [main] INFO logger_File - User clicked on login button
+2022-11-29 10:16:04,003 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 10:16:04,487 [main] INFO logger_File - User change the category
+2022-11-29 10:16:04,588 [main] INFO logger_File - User search for an item
+2022-11-29 10:16:04,664 [main] INFO logger_File - User click on Search icon
+2022-11-29 10:16:04,949 [main] INFO logger_File - User click on item
+2022-11-29 10:16:05,317 [main] INFO logger_File - User select quantity
+2022-11-29 10:16:05,400 [main] INFO logger_File - User click add to Cart button
+2022-11-29 10:19:51,711 [main] INFO logger_File - User is on retail website
+2022-11-29 10:19:51,841 [main] INFO logger_File - User click on Sign in option
+2022-11-29 10:19:52,044 [main] INFO logger_File - user enterd email and password
+2022-11-29 10:19:52,117 [main] INFO logger_File - User clicked on login button
+2022-11-29 10:19:52,118 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 10:19:52,555 [main] INFO logger_File - User change the category
+2022-11-29 10:19:52,656 [main] INFO logger_File - User search for an item
+2022-11-29 10:19:52,730 [main] INFO logger_File - User click on Search icon
+2022-11-29 10:19:53,111 [main] INFO logger_File - User click on item
+2022-11-29 10:19:53,452 [main] INFO logger_File - User select quantity
+2022-11-29 10:19:53,525 [main] INFO logger_File - User click add to Cart button
+2022-11-29 10:21:35,700 [main] INFO logger_File - User is on retail website
+2022-11-29 10:21:35,832 [main] INFO logger_File - User click on Sign in option
+2022-11-29 10:21:36,046 [main] INFO logger_File - user enterd email and password
+2022-11-29 10:21:36,119 [main] INFO logger_File - User clicked on login button
+2022-11-29 10:21:36,119 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 10:21:36,577 [main] INFO logger_File - User change the category to electronics
+2022-11-29 10:21:36,668 [main] INFO logger_File - User search for an item
+2022-11-29 10:21:36,740 [main] INFO logger_File - User click on Search icon
+2022-11-29 10:21:36,816 [main] INFO logger_File - User clicked on item
+2022-11-29 10:23:12,707 [main] INFO logger_File - User is on retail website
+2022-11-29 10:23:12,837 [main] INFO logger_File - User click on Sign in option
+2022-11-29 10:23:13,053 [main] INFO logger_File - user enterd email and password
+2022-11-29 10:23:13,126 [main] INFO logger_File - User clicked on login button
+2022-11-29 10:23:13,127 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 10:23:13,702 [main] INFO logger_File - User click on Orders section
+2022-11-29 10:24:12,502 [main] INFO logger_File - User is on retail website
+2022-11-29 10:24:12,630 [main] INFO logger_File - User click on Sign in option
+2022-11-29 10:24:12,844 [main] INFO logger_File - user enterd email and password
+2022-11-29 10:24:12,919 [main] INFO logger_File - User clicked on login button
+2022-11-29 10:24:12,920 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 10:24:13,344 [main] INFO logger_File - User click on Orders section
+2022-11-29 10:25:03,069 [main] INFO logger_File - User is on retail website
+2022-11-29 10:25:03,204 [main] INFO logger_File - User click on Sign in option
+2022-11-29 10:25:03,430 [main] INFO logger_File - user enterd email and password
+2022-11-29 10:25:03,508 [main] INFO logger_File - User clicked on login button
+2022-11-29 10:25:03,509 [main] INFO logger_File - User should be logged in into Account
+2022-11-29 10:25:03,952 [main] INFO logger_File - User click on Orders section
+2022-12-10 11:20:51,631 [main] INFO logger_File - User is on retail website
+2022-12-10 11:20:51,770 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:20:52,017 [main] INFO logger_File - User entered emailAbo.bakar@gmail.comand passwordKak@4321
+2022-12-10 11:20:52,105 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:20:52,123 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:20:52,558 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:20:52,948 [main] INFO logger_File - user updated the Name and Phone
+2022-12-10 11:20:53,034 [main] INFO logger_File - user clicked on update button
+2022-12-10 11:26:01,319 [main] INFO logger_File - User is on retail website
+2022-12-10 11:26:01,447 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:26:01,682 [main] INFO logger_File - User entered emailAbo.bakar@gmail.comand passwordKak@4321
+2022-12-10 11:26:01,765 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:26:01,786 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:26:02,255 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:26:02,589 [main] INFO logger_File - user entered the information
+2022-12-10 11:26:02,685 [main] INFO logger_File - User clicked on change password button
+2022-12-10 11:29:01,796 [main] INFO logger_File - User is on retail website
+2022-12-10 11:29:01,919 [main] INFO logger_File - User clicked on sign in option
+2022-12-10 11:29:02,147 [main] INFO logger_File - User entered emailAbo.bakar@gmail.comand passwordKak@4321
+2022-12-10 11:29:02,226 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:29:02,248 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:29:02,695 [main] INFO logger_File - User clicked on Account option
+2022-12-10 11:29:03,003 [main] INFO logger_File - user entered the information
+2022-12-10 11:29:03,082 [main] INFO logger_File - User clicked on change password button
+2022-12-10 11:31:53,324 [main] INFO logger_File - User is on retail website
+2022-12-10 11:31:53,466 [main] INFO logger_File - User click on Sign in option
+2022-12-10 11:31:53,700 [main] INFO logger_File - user enterd email and password
+2022-12-10 11:31:53,784 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:31:53,784 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:31:54,233 [main] INFO logger_File - User click on Orders section
+2022-12-10 11:37:16,984 [main] INFO logger_File - User is on retail website
+2022-12-10 11:37:17,122 [main] INFO logger_File - User click on Sign in option
+2022-12-10 11:37:17,337 [main] INFO logger_File - user enterd email and password
+2022-12-10 11:37:17,417 [main] INFO logger_File - User clicked on login button
+2022-12-10 11:37:17,418 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 11:37:17,984 [main] INFO logger_File - User change the category to electronics
+2022-12-10 11:37:18,087 [main] INFO logger_File - User search for an item
+2022-12-10 11:37:18,173 [main] INFO logger_File - User click on Search icon
+2022-12-10 11:37:18,253 [main] INFO logger_File - User clicked on item
+2022-12-10 12:19:34,286 [main] INFO logger_File - User is on retail website
+2022-12-10 12:19:34,431 [main] INFO logger_File - User click on Sign in option
+2022-12-10 12:19:34,675 [main] INFO logger_File - user enterd email and password
+2022-12-10 12:19:34,761 [main] INFO logger_File - User clicked on login button
+2022-12-10 12:19:34,763 [main] INFO logger_File - User should be logged in into Account
+2022-12-10 12:19:35,185 [main] INFO logger_File - User click on Orders section

@@ -27,7 +27,7 @@ Feature: Retail Home Page
   @Thirteen
   Scenario: Verify User can add an item to cart
     When User click on Sign in option
-    And User enter email 'Aqil.Alavee@gmail.com' and password 'Cat@12345'
+    And User enter email 'Abo.bakar@gmail.com' and password 'Kak@4321'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -41,7 +41,7 @@ Feature: Retail Home Page
   @Fourteen
   Scenario: Verify User can place an order without Shipping address and payment Method on file
     When User click on Sign in option
-    And User enter email 'Aqil.Alavee@gmail.com' and password 'Cat@12345'
+    And User enter email 'Abo.bakar@gmail.com' and password 'Kak@4321'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -56,12 +56,12 @@ Feature: Retail Home Page
     And User click Add a new address link for shipping address
     And User fill New Address Form with below information
       | country       | fullName | phoneNumber | streetAddress | apt | city         | state      | zipCode |
-      | United States | Ahmad    |  2224449999 | 1215 Alta     |  76 | Falls Church | California |   90041 |
+      | United States | Ahmad    |  2224447779 | 1015 banacasa     |  16 | kent | Washington |   90032 |
     And User click Add Your Address button
     And User click Add a credit card or Debit Card for Payment method
     And User fill debit or credit card Information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 5555335885555555 | Ahmad      |              11 |           2027 |          333 |
+      | 5552225885511111 | Ahmad      |              11 |           2027 |          333 |
     And User Click On Add Your card button
     And User click on Place Your Order
     Then a message should be displayed Order Placed Thanks
@@ -69,7 +69,7 @@ Feature: Retail Home Page
   @fiftheen
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     When User click on Sign in option
-    And User enter email 'Aqil.Alavee@gmail.com' and password 'Cat@12345'
+    And User enter email 'Abo.bakar@gmail.com' and password 'Kak@4321'
     And User click on login button
     And User should be logged in into Account
     And User change the Category to 'Electronics'
@@ -82,4 +82,4 @@ Feature: Retail Home Page
     And User click on Cart option
     And User click on Proceed to Checkout button
     And User click on Place Your Order
-    Then a message should be displayed ‘Order Placed, Thanks’
+    Then a message should be displayed ï¿½Order Placed, Thanksï¿½

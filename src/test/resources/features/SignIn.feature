@@ -6,7 +6,7 @@ Feature: Sign In Feature
   Scenario: Verify user can sign in into Retail Application
     Given User is on retail website
     When User click on sign in option
-    And User enter email'Aqil.Alavee@gmail.com' and password 'Qand@12345'
+    And User enter email'Abo.bakar@gmail.com' and password 'Kak@4321'
     And User click on login button
     Then User should be logged in into account
 
@@ -17,6 +17,6 @@ Feature: Sign In Feature
     And User click on create new account button
     And User fill the signup information with below data
       | name     | email                 | password  | confirmPassword |
-      | panthers | pant.Jan@tekschool.us | Tek@12345 | Tek@12345       |
+      | panthers | pant.kak@tekschool.us | Tek@10045 | Tek@10045       |
     And User click on signup button
     Then User should be logged into account page

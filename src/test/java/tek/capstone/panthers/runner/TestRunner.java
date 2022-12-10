@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        tags = "@Sixtheen",
+        tags = "@Seventheen",
         features = ("classpath:features"),
         glue="tek.capstone.panthers",
         dryRun = false,

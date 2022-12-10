@@ -27,9 +27,9 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@And("User update Name {string} and Phone {string}")
 	public void userUpdateNameAndPhone(String name, String phone) {
-		clearText(factory.accountPage().nameOpt);
+		clearTextUsingSendKeys(factory.accountPage().nameOpt);
 		sendText(factory.accountPage().nameOpt, name);
-		clearText(factory.accountPage().phoneOpt);
+		clearTextUsingSendKeys(factory.accountPage().phoneOpt);
 		sendText(factory.accountPage().phoneOpt, phone);
 		logger.info("user updated the Name and Phone");
 
@@ -42,9 +42,14 @@ public class RetailAccountSteps extends CommonUtility {
 
 	}
 
-	@Then("a message should be displayed Password Updated Successfully")
+	@Then("user profile information should be updated")
 	public void userProfileInformationShouldBeUpdated() {
-		logger.info("user profile information has updated");
+		waitTillPresence(factory.accountPage().personalInfoUpdMsg);
+		Assert.assertTrue(isElementDisplayed(factory.accountPage().personalInfoUpdMsg));
+		String actualMessage = factory.accountPage().personalInfoUpdMsg.getText();
+		String expectedMessage = "Personal Information Updated Succcessfully";
+		Assert.assertEquals(expectedMessage,actualMessage);
+		logger.info("user profile information should be updated");
 
 	}
 

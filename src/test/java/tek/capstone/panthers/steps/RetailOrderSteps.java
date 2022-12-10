@@ -43,6 +43,46 @@ public class RetailOrderSteps extends CommonUtility {
 			
 		
 	}
-	
+	@And("User click on first order in list")
+    public void UserClickOnFirstOrderInList() {
+        click(factory.orderPage().firstOrder);
+        logger.info("User click on first order in list");
+
+    }
+
+    @And("User click on Return Items button")
+    public void UserClickOnReturnItemsButton() {
+        click(factory.orderPage().returnBtn);
+        logger.info("User click on Return Items button");
+    }
+
+    @And("User select the Return Reason {string}")
+     public void UserSelectOnReturnItemButton(String res) {
+        selectByVisibleText(factory.orderPage().returnRes, res);
+        logger.info("User select the Return Reason");
+
+ 
+
+    }
+
+    @And("User select the drop off service {string}")
+    public void UserSelectTheDropOffService(String fed) {
+        selectByVisibleText(factory.orderPage().dropSer, fed);
+        logger.info("User select the drop off service");
+
+    }
+
+    @And("User click on Return Order button")
+    public void UserClickOnRetuntOrderButton() {
+        click(factory.orderPage().returnOrderBtn);
+        logger.info("User click on Return Order button");
+    }
+
+
+    @Then("Then a cancelation message should be displayed Return was successful")
+    public void thenACancelationMessageShouldBeDisplayed() {
+        logger.info("Then a cancelation message should be displayed 'Return was successful'");
+    }
+    
 	}
 	
